@@ -65,6 +65,7 @@ body{
 h2{
     margin-top: 3.2rem; 
     margin-bottom: 0.8rem;
+    
     font-weight: 400;
     color: var(--text-h2-light);
 }
@@ -153,6 +154,7 @@ button:hover{
     top: 0;
     left: 0;
     z-index: 1;
+
     background-color: #0ddbc0;
     border:1px solid #757474 ;
     border-radius: 32px;
@@ -163,22 +165,22 @@ button:hover{
 
 
 .toggle::before {
-    content: "on";
+    
     color: #ffffff;
     position: absolute;
     text-transform: uppercase;
-    font-size: 0;
+    
     top: 0.6rem;
     left: 0.2rem;
 
 }
 
 .toggle::after {
-    content: "off";
+    
     color: #ffffff;
     position: absolute;
     text-transform: uppercase;
-    font-size: 0.6rem;
+    
     top: 0.6rem;
     left: 0.2rem;
 }
