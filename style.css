@@ -65,7 +65,6 @@ body{
 h2{
     margin-top: 3.2rem; 
     margin-bottom: 0.8rem;
-    
     font-weight: 400;
     color: var(--text-h2-light);
 }
@@ -154,7 +153,7 @@ button:hover{
     top: 0;
     left: 0;
     z-index: 1;
-
+    
     background-color: #0ddbc0;
     border:1px solid #757474 ;
     border-radius: 32px;
