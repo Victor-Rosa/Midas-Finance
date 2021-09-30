@@ -10,6 +10,9 @@
   </p>
   
   <br>
+  <h1>
+  <img src="./image/Animation.gif">
+  </h1>
   
   <p align="center">
     <img alt="" src="/image/2021-07-18 15-02-12_Trim.mp4" width="450px">
